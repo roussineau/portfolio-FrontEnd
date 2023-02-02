@@ -1,0 +1,42 @@
+body{
+    background-color: #ea3;
+}
+
+.header{
+    display: block;
+    height: 100vh;
+    border: #000 solid 1px;
+
+}
+
+.nav{
+    display: block;
+    position: sticky;
+    border: #000 solid 1px;
+
+}
+
+main{
+    display: flex;
+}
+
+.section{
+    width: 80vw;
+    height: 100vh;
+    border: #000 solid 1px;
+
+}
+
+.aside{
+    display: flexbox;
+    width: 20vw;
+    height: 100vh;
+    border: #000 solid 1px;
+
+}
+
+.footer{
+    display: block;
+    border: #000 solid 1px;
+
+}
